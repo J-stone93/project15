@@ -14,7 +14,7 @@ public class Quiz9 {
 		
 		String filedir = "C:\\Users\\G201\\Downloads";
 		
-		ListFiles(filedir);
+		ListFile(filedir);
 		
 //		try {
 //			FileWriter fw = new FileWriter("quiz9.txt");
@@ -30,20 +30,20 @@ public class Quiz9 {
 
 	}
 
-	public static void ListFiles(String filedir) {
-
-		File dir = new File(filedir);
-
-		File[] files = dir.listFiles();
-
-		for (int i = 0; i < files.length; i++) {
-			if (files[i].isFile()) {
-				System.out.println(files[i].getName());
-			} else if (files[i].isDirectory()) {
-				ListFiles(files[i].getName()); 
-			}
-
-		}
-
-	}
+	// 재귀함수 
+    private static void ListFile( String strDirPath ) { 
+         
+        File path = new File( strDirPath ); 
+        File[] fList = path.listFiles(); 
+         
+        for( int i = 0; i < fList.length; i++ ) { 
+             
+            if( fList[i].isFile() ) { 
+                System.out.println( fList[i].getPath() );  
+            } 
+            else if( fList[i].isDirectory() ) { 
+                ListFile( fList[i].getPath() );  
+            } 
+        } 
+    } 
 }
