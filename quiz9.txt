@@ -1,1 +1,329 @@
-C:\Users\G201\Downloads
+0518.ai
+1.프로그래밍 언어 활용 및 응용 시험지(본).pdf
+10장_인터페이스.pdf
+11장_기본클래스 (1).pdf
+11장_기본클래스 (2).pdf
+11장_기본클래스.pdf
+12장_컬렉션프레임워크 (1).pdf
+12장_컬렉션프레임워크 (2).pdf
+12장_컬렉션프레임워크.pdf
+13장_내부클래스,람다식,스트림 (1).pdf
+13장_내부클래스,람다식,스트림.pdf
+14장_예외처리.pdf
+15장_자바입출력.pdf
+1week_ex copy.jpg
+1week_ex.psd
+1장_Maria 데이터베이스 설치.pdf
+1장_자바시작하기.pdf
+2.데이터베이스 구현 시험지(본).pdf
+2장_변수와자료형.pdf
+2장_테이블 만들기 (1).pdf
+2장_테이블 만들기.pdf
+3DP_Chip_v2312.exe
+3장_데이터 추가하기 (1).pdf
+3장_데이터 추가하기 (2).pdf
+3장_데이터 추가하기 (3).pdf
+3장_데이터 추가하기.pdf
+3장_연산자.pdf
+4장_제어문.pdf
+4장_함수,JOIN,키 (1).pdf
+4장_함수,JOIN,키 (2).pdf
+4장_함수,JOIN,키.pdf
+546.33-desktop-win10-win11-64bit-international-dch-whql.exe
+5장. 뷰,인덱스 (1).pdf
+5장. 뷰,인덱스.pdf
+5장_클래스와객체1.pdf
+6__240205 (1).zip
+6__240205 (2).zip
+6__240205 (3).zip
+6__240205.zip
+6장_데이터베이스 설계 (1).pdf
+6장_데이터베이스 설계.pdf
+6장_클래스와객체2 (1).pdf
+7장_배열 (1).pdf
+7장_배열.pdf
+8장_상속과다형성 (1).pdf
+8장_상속과다형성.pdf
+9장_추상클래스.pdf
+AMD_Chipset_Software.exe
+arrow-1295953_1920.png
+data-7681497_1920 (1).png
+data-7681497_1920 (2).png
+data-7681497_1920.png
+dbeaver-ce-24.0.3-x86_64-setup.exe
+desktop.ini
+drive-download-20240507T000505Z-001
+	.git
+		config
+		description
+		HEAD
+		hooks
+			applypatch-msg.sample
+			commit-msg.sample
+			fsmonitor-watchman.sample
+			post-update.sample
+			pre-applypatch.sample
+			pre-commit.sample
+			pre-merge-commit.sample
+			pre-push.sample
+			pre-rebase.sample
+			pre-receive.sample
+			prepare-commit-msg.sample
+			push-to-checkout.sample
+			sendemail-validate.sample
+			update.sample
+
+		info
+			exclude
+
+		objects
+			info
+
+			pack
+
+
+		refs
+			heads
+
+			tags
+
+
+
+
+drive-download-20240507T000505Z-001.zip
+eclipse-inst-jre-win64.exe
+favicon.ico
+Git-2.43.0-64-bit.exe
+jdk-17_windows-x64_bin.exe
+KakaoTalk_Setup.exe
+magic-master (1).zip
+magic-master.zip
+mariadb-11.3.2-winx64.msi
+mesh-1430108_1920.png
+node-v20.12.2-x64 (1).msi
+node-v20.12.2-x64.msi
+NVIDIA_HDMI_(1064_134014_230608)_by3DP.exe
+Part1 - 한 번에 끝내는 프론트엔드 개발.pdf
+Part2 - Git을 활용한 버전관리.pdf
+Quiz03_수업과 수강생.png
+Realtek_HD_(1064_9618).exe
+retry
+	.git
+		COMMIT_EDITMSG
+		config
+		description
+		FETCH_HEAD
+		HEAD
+		hooks
+			applypatch-msg.sample
+			commit-msg.sample
+			fsmonitor-watchman.sample
+			post-update.sample
+			pre-applypatch.sample
+			pre-commit.sample
+			pre-merge-commit.sample
+			pre-push.sample
+			pre-rebase.sample
+			pre-receive.sample
+			prepare-commit-msg.sample
+			push-to-checkout.sample
+			sendemail-validate.sample
+			update.sample
+
+		index
+		info
+			exclude
+
+		logs
+			HEAD
+			refs
+				heads
+					main
+
+				remotes
+					origin
+						main
+
+
+
+
+		objects
+			09
+				328ebc8d9208a59d53d4afbd160b3c55f7da96
+				8d181de82c9e88e8c7a4d8489f143af0e5855b
+
+			0d
+				0eb9bc25f478c9702cf16573a72c1c4e414d68
+
+			12
+				9e3ddd1f5669ecc980afa8e426abf06dc56745
+
+			13
+				34ad6b785cd1c72ae954238d37cb97113f6910
+
+			1b
+				c8229750e5b9240ef47befc2f22c92cbe69fb9
+
+			37
+				e5010c3de9e91f1d4ca67b08263acefbf999b0
+
+			57
+				2e3d3b9dd6d9986c5e503820e0509c6ca641a2
+
+			58
+				a14082df87c985552a876b5d638a591ee89539
+
+			59
+				125ddc929a258e08ca7fe023731124823d4694
+
+			61
+				1510a1baf4ea1b1318d1a3f955bde73f3e0510
+
+			64
+				0b28297bb0ca816fefa4453cd5c26c80168f73
+
+			68
+				17889896e5d4e59a60602aecbf28452c3bc9c9
+
+			6a
+				52048b3d2ab23bf11aa5c3bc1066aa78e6e908
+
+			71
+				79a096e1fbd34f2bc72d609d513bd43356de5d
+
+			78
+				894c67861034125d0036092cc15e3a50ab0310
+
+			7a
+				96cc19d43c4aa0ecfdbc1e5fe4f95210bced23
+
+			7f
+				51f15e3e01e9ff653815f9da7cb812017cdba4
+				e914ca6eb7b13fd392334b3ab91765d60e9c10
+
+			87
+				b8582fa714f185abcc1b3fe2388ab324456e0f
+
+			8a
+				0cf51cf8c6f2b08a1dd0954d6a064483225ce8
+
+			90
+				31fc83e951911a9dc6898cf936ab7d9e2bccc0
+
+			95
+				e2ebba2d00f9d23f58a44bd539cdf690fe796b
+
+			9c
+				06ae25aa327b02b2f965fd68a0ac6c1266bb48
+
+			9d
+				73c7c82cad7c6d13bb50d38dca3ad7fbd547fb
+
+			a2
+				d33f3ec8af2b2d7bbb95d3ec6fb8fc164e65a7
+
+			a8
+				985773fdfd3972d5e8ff58053025b2e2fae94f
+				d1d061fad09f8ef2cc98bcce76b6953a341f8f
+
+			af
+				29caed370a0cca8c0ecc6165731d305f48f3f7
+
+			b6
+				26bde32b766edc0d31beb6004936dcc5f6e0d1
+
+			b8
+				4020609f79fa7d509645fed0e1a1e49d2ff062
+
+			c7
+				86a1ff82b0098885b5b43d6b0fe736062b4648
+
+			cf
+				ce7b2b5842d2d31a3f9508ee14098a38b8175d
+
+			d2
+				a38277daee6e5526137dc3e385455c09733123
+
+			d3
+				8087f04c642a400ddaff0b7e071ef516ed8229
+
+			d5
+				8badabc2613f97a95fc9420c07f69f3822ce08
+
+			d9
+				eaab121ab44b2dda8f379276bd5e14578d087d
+
+			de
+				0f51862595d1b984a0d3bef4ca75819f1a857c
+
+			e3
+				dc04c0cc9f5dc3580bcf5f1711f1969058838a
+
+			e6
+				9de29bb2d1d6434b8b29ae775ad8c2e48c5391
+
+			e9
+				b415befdcdfa62deecc5b017d49c8e67d2b934
+				c98fe91a27ab0fb0f28cf19d8462e34a328cb2
+
+			f0
+				33aa06d21e57eddd4ca43e65af81261c118cea
+
+			ff
+				1d9ecab4477ee0f26c72ce6763f3c247e62856
+
+			info
+
+			pack
+
+
+		ORIG_HEAD
+		refs
+			heads
+				main
+
+			remotes
+				origin
+					main
+
+
+			tags
+
+
+
+	README.md
+	retry
+		CSS
+			main.css
+			reset.css
+
+		IMG
+			logo_01.png
+
+		index.html
+		JS
+			script.js
+
+		trash.html
+
+
+SQLD 요약정리 2021.pdf
+SQLD 기출문제 모음(21, 24, 25, 26, 30).pdf
+SQLD_기출문제집(30회) 해답.pdf
+SQLD_요약정리.pdf
+temp_1707126229140.-752245594.jpeg
+test.zip
+TouchEn_nxKey_32bit.exe
+Untitled (1).png
+Untitled.png
+Vanilla@1x-0.6s-1920px-1280px.gif
+Vrew-Installer-1.13.2.exe
+VSCodeUserSetup-x64-1.86.2.exe
+VSCodeUserSetup-x64-1.89.0.exe
+WhaleSetup.exe
+[러하얀]3학년9반은문제아집합소.txt
+[수정] 2024년 1차 청년안심주택 공고문-최종(웹용).pdf
+구직준비도검사결과_김지연.pdf
+다운로드.jpg
+이클립스에서 GIT사용하기.pdf
+직업선호도검사(L형)결과_김지연.pdf
